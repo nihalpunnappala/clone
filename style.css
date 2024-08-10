@@ -1,0 +1,395 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Mukta", sans-serif;
+}
+#img1{
+    width: 150px;
+    height: 50%;
+    margin-left: 200px; 
+       
+}
+
+#symbol{
+    margin-right: 250px;
+    gap: 50%;
+    font-size: large;
+}
+
+#bnr{
+    display: flex;
+    gap: 10px;
+    margin-left: 10.7%;    
+}
+#hi{
+    color: rgb(5, 5, 89);
+}
+
+.container-fluid{
+    background-color: rgb(248, 245, 245);
+}
+.banner{
+    background-image: url(https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Exter/blackexterinnerkvpc.jpg);
+   width: 100%;
+    height: 490px;
+    background-size: cover;
+    
+}
+#nav2{
+   
+    font-size: x-large;
+    gap: 100px;
+    padding-left: 250px;
+    
+    
+      
+       
+}
+
+#navbarNav{
+    
+    margin-top: -10px;
+    padding-top: 10px;
+    
+    
+     
+}
+
+#navbarNav li a:hover{
+    text-decoration: underline;
+}
+#ex{
+    padding-left: 200px;
+    margin-bottom: -5px;
+    font-size: x-large;
+    
+    
+    
+    
+}
+
+
+#exaa{
+    padding-left: 75px;
+    font-size: larger;
+    gap: 5px;
+    margin-bottom: -5px;
+   
+    
+    
+}
+
+#para{
+    margin-top: 95px;
+    padding-left: 13.5%;
+
+}
+#paraa{
+    padding-left: 13.7%;
+    
+}
+
+#vedio{
+    padding-left: 13.8%;
+    margin-top: 40px;
+}
+
+#para2{
+    margin-top: 95px;
+    padding-left: 14%;
+
+}
+#paraa2{
+    padding-left: 14%;
+    margin-top: 35px;
+   
+    
+}
+.row{
+    width: 100%;
+    height: 400px;
+  
+    padding-left: 215px;
+    
+}
+.col-4{
+    width: 100%;
+    height: 450px;
+    margin-right: -75px;
+
+}
+#img{
+    width: 323px;
+    height: 240px;
+    
+}
+#c{
+    position: absolute;
+    top: 2630px;
+    padding-left: 218px;
+    width: 100%;
+    
+}
+#ca{
+    position: absolute;
+    top: 2710px;
+    padding-left: 218px;
+    width: 100%;
+}
+
+#car{
+    height: 450px;
+    width: 1100px;
+}
+
+#exter .row{
+    margin-left: -230px;
+    height: 500px;
+}
+h5{
+    font-size: -50px;
+}
+
+.sty{
+    padding-left: 215px;
+}
+.hy{
+    padding-left: 215px;
+    
+}
+
+#segment{
+    padding-left: 219px;
+    width: 1280px;
+    margin-top: 15px;
+    height: 500px;
+}
+.voice{
+    padding-left: 380px;
+    margin-top: 38px;
+}
+#col{
+    padding-left: 240px;
+}
+    
+#segment1{
+    padding-left: 219px;
+    width: 1280px;
+    margin-top: 29px;
+    height: 600px;
+}
+
+#box{
+    position: absolute;
+    left: 650px;
+    margin-top: 40px;
+}
+
+.hyh{
+    padding-left: 300px;
+}
+
+#box1{
+    position: absolute;
+    left: 650px;
+    margin-top: 30px;
+}
+
+.tx{
+    padding-left: 569px;
+}
+
+#color{
+    background-color: rgb(235, 228, 228);
+}
+
+
+    
+#ul{
+    display: flex;
+    padding-left: 1130px;
+    gap: 30px;
+    font-size: xx-large;
+}
+
+
+#tt{
+    padding-left: 211px;
+}
+
+
+.rt{
+   margin-left: 90px;
+}
+.tr{
+    padding-left: 211px;
+    margin-top: 18px;
+    
+}
+#mo{
+    width: 300px;
+    padding-left: 20px;
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+#id{
+    width: 1100px;
+    padding-left: 20px;
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    
+}
+.value{
+    margin: 25px;
+    padding: 6px;
+    background-color: rgb(86, 86, 146);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ir{
+    width: 1100px;
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    background-color: rgb(234, 233, 249);
+}
+
+#hh{
+    width: 1100px;
+    height: 150px;
+}
+
+.ww{
+    padding-left: 212px;
+}
+
+.valu{
+    margin-left: 720px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(41, 41, 130);
+    color: white;
+
+}
+
+.yy{
+    padding-left: 290px;
+    margin-top: 100px;
+}
+
+#pp{
+    width: 250px;
+
+}
+.td{
+    padding-left: 250px;
+    margin-top: 60px;
+    font-size: xx-large;
+}
+.re{
+    padding-left:250px ;
+    margin-top: -30px;
+    font-size: x-large;
+}
+
+.img{
+    padding-left: 560px;
+    margin-top: -125px;
+    height: 130px;
+   
+}
+.zz{
+    
+    width: 120px;
+    background-color: rgb(44, 44, 136);
+    color: white;
+   
+}
+#xx{
+    background-color: rgb(223, 210, 210);
+}
+.move{
+    padding-left: 850px;
+    margin-top: -70px;
+}
+
+
+.text{
+    text-align: center;
+    padding-top: 80px;
+    font-size: xx-large;
+    
+}
+.now{
+    margin-top: 20px;
+    
+    
+}
+
+#pl{
+    margin-top: 40px;
+    
+}
+.bg{
+    background-color: rgb(244, 240, 240);
+}
+
+.vv{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 170px;
+    margin-top: -40px;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(29, 27, 27);
+    color: rgb(196, 192, 192);
+    
+    
+}
+.kk{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.oo{
+    display: flex;
+    margin-top: 38px;
+    gap: 20px;
+    padding-right: 60px;
+    color: rgb(102, 101, 101);
+}
+
+.yy{
+    position: absolute;
+   margin-top: 460px;
+   margin-left: -445px;
+    
+}.k{
+    color: white;
+    margin-top: 20px;
+}
+
+#uu{
+    margin-top: 40px;
+    color: white;
+}
+
+#cc{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: rgb(24, 24, 93);
+    margin-top: -8px;
+}
+#cj{
+    position: sticky;
+    top: 50px;
+    z-index: 1;
+    background-color: white;
+}
+
